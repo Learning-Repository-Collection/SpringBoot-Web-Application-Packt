@@ -1,2 +1,2 @@
-# SpringtBootPackt
-A Self-Learning Project for a SpringBoot Web Application using the guidelines from the "SpringBoot 3.0" book by Packt Publishing
+# SpringtBoot-Web-Application
+Welcome to the SpringBoot-Web-Application repository. This is a self-learning project I have worked on where I used a mustache template
