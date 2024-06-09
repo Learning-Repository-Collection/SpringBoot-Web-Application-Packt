@@ -1,5 +1,5 @@
 # SpringtBoot-Web-Application-Packt
-Welcome to the SpringBoot-Web-Application repository! A Self-Learning Project for a SpringBoot Web Application using the guidelines from the "SpringBoot 3.0" book from Chapter 2 by Packt Publishing.
+Welcome to the SpringBoot-Web-Application repository! A Self-Learning Project for a SpringBoot Web Application using the guidelines from the "SpringBoot 3.0" book from Chapter 2 by Packt Publishing. This is a tech stack that uses Java, JavaScript & Mustache!
 
 ## Update 1 | Creating a Controller
 Used spring.start.io to generate a Spring Boot project quickly. Added the Spring Web dependency, which allows me to build web applications using the SpringMVC. Afterwards, I created a web controller class designed to respond to HTTP requests. 
